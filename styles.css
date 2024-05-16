@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Playfair Display';
+  border: 2px solid #8e5158;
+  margin: 20px;
+  padding: 10px;
+  font-size: 1.4em;
+}
+
+header {
+  font-family: 'DM Serif Display';
+  text-align: center;
+  font-size: 1.6em;
+  color: #63383d;
+}
+
+.page-divider {
+  border-bottom: 3px solid #8e5158;
+  margin: 0 10px;
+}
+
+li {
+  list-style-type: none;
+  border: 2px solid #8e5158;
+  text-align: center;
+  padding: 20px;
+  margin: 10px auto;
+  background-image: url(https://cdn.pixabay.com/photo/2022/05/30/17/23/flora-7231668_640.jpg);
+}
+
+a {
+  font-size: 1.4em;
+  text-decoration: none;
+  color: #63383d;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black
+}
+
+

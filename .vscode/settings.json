@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "hack",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.definitionLinkOpensInPeek": true
+}
